@@ -4,6 +4,6 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/ic_lgkuma" />
+            android:src="@drawable/kusa" />
     </item>
 </layer-list>
