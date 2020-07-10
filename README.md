@@ -13,4 +13,4 @@ Applicationくらすで色々やっていると１，２秒スプラッシュが
 
 themeにSVG は使えない（これで少しハマった。
 
-https://user-images.githubusercontent.com/6377215/87122696-64ddfa80-c2c0-11ea-8a2f-6e81cc0d9b09.gif
+<img src="https://user-images.githubusercontent.com/6377215/87122696-64ddfa80-c2c0-11ea-8a2f-6e81cc0d9b09.gif">
